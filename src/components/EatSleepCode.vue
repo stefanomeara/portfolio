@@ -19,7 +19,7 @@ export default {
   data() {
     return {
       like: "code",
-      likes: ["code","play soccer", "run", "write", "teach"],
+      likes: ["code","play soccer", "trade stocks", "run", "write", "teach"],
       likePos: 1,
     }
   },
